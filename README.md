@@ -2,5 +2,5 @@
 
 # twitter-bot
 
-This is twitter-bot is a Python bot for collecting and analyzing tweets of fcbarcelona vs psg
+This twitter-bot is a Python bot for collecting and analyzing tweets of fcbarcelona vs psg
 
